@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a programmer doing my best to explore as much coding as I can. there is always something to learn, new skills to obtain and new challenges to face.
+I am a programmer doing my best to explore as much coding as I can. There is always something to learn, new skills to obtain and new challenges to face.
 
 My passion for coding originated way back when I became obsessed with the FORGE gamemode in the Halo videoogame series that allowed players to create there own maps and modes. Eventually this evolved into game development which drove me to pursue software development. During this time I have experimented with many languages including Python, C#, Java Javascript, CSS and Typescript but I have not chosen a favorite yet as I am still exploring others.
 
