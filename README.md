@@ -23,6 +23,8 @@ While I appreciate TypeScript's robust features (making vanilla JavaScript harde
 
 💰 **Personal Finance Tracker** - A Python application to help with budgeting and spending analysis.
 
+🚀 **Boot.dev Journey** - Working through the Boot.dev curriculum to strengthen my backend development skills and build production-ready applications with Go, Python, Java, Kubernetes and SQL.
+
 ## Let's Connect 🤝
 
 I'm seeking opportunities to join a passionate team where I can make an early impact while growing alongside talented developers. If your team values curiosity and continuous learning, I'd love to chat!
