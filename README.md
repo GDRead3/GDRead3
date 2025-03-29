@@ -1,9 +1,30 @@
-## Hi there 👋
+# Hello, World! 👋
 
-I am a programmer doing my best to explore as much coding as I can. There is always something to learn, new skills to obtain and new challenges to face.
+I'm a curious developer on a mission to explore the vast universe of coding. Learning new skills and tackling fresh challenges keeps me energized as a programmer.
 
-My passion for coding originated way back when I became obsessed with the FORGE gamemode in the Halo videoogame series that allowed players to create there own maps and modes. Eventually this evolved into game development which drove me to pursue software development. During this time I have experimented with many languages including Python, C#, Java Javascript, CSS and Typescript but I have not chosen a favorite yet as I am still exploring others.
+## My Journey 🚀
 
-I am currently developing a vocabulary game designed for mobile primarly using Typescript and all the additonal features typescript offers is starting to make javascript harder to go back to. Currently there is only a guess the word 'hangman'style game but I plan to continue improving this game and adding more modes and features! Addionally in the python front I am working on a personal finance tracker to help me with budgeting and creating reports on my spending.
+My coding adventure began with the FORGE gamemode in Halo, where I discovered the joy of creating custom maps and modes. This creative spark evolved into a passion for game development, which ultimately led me to pursue software engineering.
 
-I'd love to join a passionate team where I can make an impact early and learn from my fellow members. If you are hiring, let's chat!
+## Tech Stack 💻
+
+I've explored multiple languages and frameworks including:
+- Python for data analysis and automation
+- TypeScript/JavaScript for web and mobile development
+- C# for game development
+- Java for backend solutions
+- HTML/CSS for crafting user interfaces
+
+While I appreciate TypeScript's robust features (making vanilla JavaScript harder to return to!), I'm keeping an open mind as I continue exploring new technologies.
+
+## Current Projects 🔥
+
+🎮 **Word Game App** - A mobile vocabulary game built with TypeScript, currently featuring a "hangman" style mode with more features on the roadmap.
+
+💰 **Personal Finance Tracker** - A Python application to help with budgeting and spending analysis.
+
+## Let's Connect 🤝
+
+I'm seeking opportunities to join a passionate team where I can make an early impact while growing alongside talented developers. If your team values curiosity and continuous learning, I'd love to chat!
+
+*[Connect with me on LinkedIn](your-linkedin-url)*
