@@ -9,9 +9,9 @@ My coding adventure began with the FORGE gamemode in Halo, where I discovered th
 ## Tech Stack 💻
 
 I've explored multiple languages and frameworks including:
-- Python for data analysis and automation
-- TypeScript/JavaScript for web and mobile development
-- C# for game development
+- Python for data analysis, automation, pygame and file management
+- TypeScript/JavaScript for web and mobile development. usually using React as the framework
+- C# for game development and other projects
 - Java for backend solutions
 - HTML/CSS for crafting user interfaces
 
