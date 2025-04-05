@@ -15,7 +15,7 @@ I've explored multiple languages and frameworks including:
 - Java for backend solutions
 - HTML/CSS for crafting user interfaces
 
-While I appreciate TypeScript's robust features (making vanilla JavaScript harder to return to!), I'm keeping an open mind as I continue exploring new technologies.
+I appreciate TypeScript's robust features (making vanilla JavaScript harder to return to!), I'm keeping an open mind as I continue exploring new technologies.
 
 ## Current Projects 🔥
 
