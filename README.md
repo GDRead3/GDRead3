@@ -21,11 +21,11 @@ I appreciate TypeScript's robust features (making vanilla JavaScript harder to r
 
 ## Current Projects 🔥
 
-🎮 **WordUp** - A mobile vocabulary game built with TypeScript, currently featuring a "hangman" style mode with more modes and features on the roadmap. it is designed for both IOS and Android
+🎮 WordUp - A mobile vocabulary game built with TypeScript, currently featuring a "hangman" style mode with more modes and features on the roadmap. it is designed for both IOS and Android
 
-💰 **Personal Finance Tracker** - A Python application to help with budgeting and spending analysis. file importing, creating and analyzing are planned for the future
+💰 Personal Finance Tracker - A Python application to help with budgeting and spending analysis. file importing, creating and analyzing are planned for the future
 
-🏋️‍♂️ **Boot.dev Journey** - Working through the Boot.dev curriculum to strengthen my backend development skills and build production-ready applications with Go, Python, Java, Kubernetes and SQL.
+🏋️‍♂️ Building a Discord Bot - javascript bot to improve the quality of my discord servers.
 
 ## Let's Connect 🤝
 
