@@ -6,7 +6,7 @@ I'm a curious developer on a mission to explore the vast universe of coding. Lea
 
 My coding adventure began in the gamemode of FORGE in the Xbox series Halo (Halo Reach specifically), where I discovered the profound joy of building custom maps and game modes. I dedicated myself to crafting competitive, meticulously balanced environments that challenged players while maintaining fair gameplay dynamics. My designs even earned recognition in several Forge map competitions, fueling my creative confidence.
 
-This early spark evolved into a deeper fascination with game development, ultimately guiding me toward a broader path in software engineering. While I'm still growing and learning in this expansive field, that original passion for intuitive level design continues to burn brightly. I find myself naturally gravitating toward games with robust creation tools, where I can experiment with mechanics and spatial design concepts during my free time.
+This early spark evolved into a deeper fascination with game development, ultimately guiding me toward a broader path in software engineering. While I'm still growing and learning in this expansive field, that original passion for intuitive level design continues to burn brightly. I find myself naturally gravitating toward games with robust creation tools, where I can experiment with mechanics and create my own unique worlds and stories.
 
 ## Tech Stack 💻
 
